@@ -8,3 +8,8 @@ var name = prompt('Enter your name');
 // Var result
 
 console.log('Hello, ' + name);
+
+/*
+  block comment
+  console.log('This is comment you asked for');
+*/
